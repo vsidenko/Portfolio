@@ -9,5 +9,5 @@
 ### Mysql : Basic knowledge
 ### CMS : Wordpress+cloudflare.
 ### CRM : Bitrix24
-## ![Binder](https://i.imgur.com/sFdYLpn.png) QA Manual course - currently in progress :bar_chart:
-![Binder](https://github.com/vsidenko/Portfolio/blob/master/Interesting%20info/QA_sertificate.png?raw=true)
+## ![Binder](https://github.com/vsidenko/Portfolio/blob/master/img/hillel.logo.png?raw=true) QA Manual course - currently in progress :bar_chart:
+![Binder](https://github.com/vsidenko/Portfolio/blob/master/img/QA_sertificate.png?raw=true)
